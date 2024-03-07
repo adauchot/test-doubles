@@ -1,4 +1,4 @@
-package com.example
+package com.workshop
 
 import java.util.UUID
 

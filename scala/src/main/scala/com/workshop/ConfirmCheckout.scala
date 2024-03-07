@@ -1,4 +1,4 @@
-package com.example
+package com.workshop
 
 class ConfirmCheckout(
                        uuidGenerator: UUIDGenerator,
